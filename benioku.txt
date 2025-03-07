@@ -1,0 +1,29 @@
+Beni Oku
+
+Cüzdan Asistanı
+
+LB Software tarafından geliştirilmiştir.
+
+----------------------------------------------
+
+Kurulum Talimatları
+
+HTML Dosyaları: Gerekli tüm HTML dosyaları proje dizininde bulunmaktadır.
+
+----------------------------------------------
+
+Geliştirici Bilgileri
+
+Geliştirici: CanBye
+
+Şirket: LB Software
+
+Sürüm: V1
+
+Tüm hakları saklıdır. © 2019-2025 LB Software
+
+---------------------------------------------
+
+Önemli Not
+
+Lütfen bu projeyi başkalarıyla paylaşmayın. İyilik yapın, arkadaşlarınızı davet edin ve onların da bu projeden yararlanmasını sağlayın! 😊
